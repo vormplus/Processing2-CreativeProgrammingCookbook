@@ -18,3 +18,7 @@ Full source-code for the book.
 - Recipe 7: Using the GPS
 - Recipe 8: Creating 3D sketches on Android
 - Recipe 9: Adding an icon to your Android App
+
+## Note
+
+To use these examples, you need to have the Android SDK installed on your computer. Most sketches won't run in the Android Emulator, so you'll need an Android device too.
