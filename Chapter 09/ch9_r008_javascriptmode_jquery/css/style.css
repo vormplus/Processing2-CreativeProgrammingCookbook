@@ -1,0 +1,44 @@
+body {
+	background: #fff;
+	color: #000;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	line-height: 1.4em;
+}
+
+#container {
+	width: 640px;
+	margin: 40px auto;
+}
+
+h1 {
+	font-size: 2em;
+	line-height: 1em;
+	margin-bottom: 0.5em;
+}
+
+p {
+	margin-bottom: 1.4em;
+}
+
+canvas {
+	margin-bottom: 30px;
+}
+
+#red,
+#green,
+#blue {
+	margin-bottom: 20px;
+}
+
+#red .ui-slider-range {
+	background: #f00;
+}
+
+#green .ui-slider-range {
+	background: #0f0;
+}
+
+#blue .ui-slider-range {
+	background: #00f;
+}
