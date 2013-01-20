@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<websites>
+	<website id="1" url="http://processing.org/">Processing</website>
+	<website id="2" url="http://processingjs.org/">Processing JS</website>
+	<website id="3" url="http://www.openprocessing.org/">OpenProcessing</website>
+	<website id="4" url="http://www.processingghent.org/">Processing Ghent</website>
+	<website id="5" url="http://www.processingparis.org/">Processing Paris</website>
+	<website id="6" url="http://www.processingberlin.com/">Processing Berlin</website>
+	<website id="7" url="http://www.processingcities.org/">Processing Cities</website>
+	<website id="8" url="http://www.processing-rennes.com/">Processing Rennes</website>
+	<website id="9" url="http://www.processingbordeaux.org/">Processing Bordeaux</website>
+	<website id="10" url="http://toxiclibs.org/">Toxiclibs</website>
+</websites>
