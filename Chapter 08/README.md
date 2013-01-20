@@ -18,3 +18,7 @@ Full source-code for the book.
 - Recipe 7: Face detection with OpenCV
 - Recipe 8: Defining the region of interest with OpenCV
 - Recipe 9: Manipulating video with OpenCV
+
+## Note
+
+For the examples that use OpenCV, you need to have the OpenCV library for Processing installed. You can get it at http://ubaa.net/shared/processing/opencv/. 
