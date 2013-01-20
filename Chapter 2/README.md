@@ -21,4 +21,4 @@ Full source-code for the book.
 
 ## Acknowledgement
 
-The fonts used in Recipe 4: Drawing Text are available at http://www.theleagueofmoveabletype.com/
+The fonts used in "Recipe 4: Drawing Text" are available at http://www.theleagueofmoveabletype.com/
