@@ -7,7 +7,7 @@ Full source-code for the book.
     Copyright:      Packt Publishing 2012.
 	Author:         Jan Vantomme
 
-## Chapter 1
+## Chapter 1 - Getting Started with Processing 2
 
 - Recipe 1: Installing Processing on your computer
 - Recipe 2: Exploring the Processing Development Environment
