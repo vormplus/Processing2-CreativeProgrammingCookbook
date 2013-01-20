@@ -9,7 +9,7 @@ Full source-code for the book.
 
 ## Chapter 1
 
-Recipe 7: Writing your first Processing sketch
-Recipe 8: Using Math Functions
-Recipe 9: Responding to mouse events
-Recipe 10: Responding to keyboard events
+- Recipe 7: Writing your first Processing sketch
+- Recipe 8: Using Math Functions
+- Recipe 9: Responding to mouse events
+- Recipe 10: Responding to keyboard events
