@@ -17,3 +17,7 @@ Full source-code for the book.
 - Recipe 6: Installing the Processing tool template
 - Recipe 7: Writing Processing tools
 - Recipe 8: Using Processing with IntelliJ IDEA
+
+## Note
+
+Chapter 11 explores how you can use Processing with editors like Eclipse and IntelliJ IDEA. You'll also learn how to get started writing libraries and tools for Processing. There is no specific code for this chapter.
