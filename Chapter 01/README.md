@@ -9,6 +9,12 @@ Full source-code for the book.
 
 ## Chapter 1
 
+- Recipe 1: Installing Processing on your computer
+- Recipe 2: Exploring the Processing Development Environment
+- Recipe 3: Installing libraries
+- Recipe 4: Installing tools
+- Recipe 5: Switching modes
+- Recipe 6: Understanding the coordinate system
 - Recipe 7: Writing your first Processing sketch
 - Recipe 8: Using Math Functions
 - Recipe 9: Responding to mouse events
