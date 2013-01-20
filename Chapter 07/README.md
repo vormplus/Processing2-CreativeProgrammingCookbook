@@ -19,6 +19,6 @@ Full source-code for the book.
 - Recipe 8: Creating a synthesizer
 - Recipe 9: Using effects
 
-# Note
+## Note
 
 The audio files you need for the examples are included in the audio-files directory. You need to copy them to the data folder of the sketches before running them.
