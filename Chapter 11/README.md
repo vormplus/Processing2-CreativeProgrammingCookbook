@@ -7,13 +7,13 @@ Full source-code for the book.
     Copyright:      Packt Publishing 2012.
 	Author:         Jan Vantomme
 
-## Chapter 10 - Using Processing with Other Editors
+## Chapter 11 - Using Processing with Other Editors
 
-- Recipe 1: 
-- Recipe 2: 
-- Recipe 3: 
-- Recipe 4: 
-- Recipe 5: 
-- Recipe 6: 
-- Recipe 7: 
-- Recipe 8: 
+- Recipe 1: Installing Eclipse
+- Recipe 2: Installing the Processing plugin for Eclipse
+- Recipe 3: Write your first sketch with the Processing Eclipse plugin
+- Recipe 4: Installing the Processing library template in Eclipse
+- Recipe 5: Writing Processing libraries
+- Recipe 6: Installing the Processing tool template
+- Recipe 7: Writing Processing tools
+- Recipe 8: Using Processing with IntelliJ IDEA
