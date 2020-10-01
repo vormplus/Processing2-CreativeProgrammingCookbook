@@ -1,6 +1,6 @@
 # Processing 2, Creative Programming Cookbook
 
-Full source-code for the book.
+Full source-code for the book available on.
 
 	Source-Code:    https://github.com/vormplus/Processing2-CreativeProgrammingCookbook
     Book:           http://www.packtpub.com/processing-2-creative-programming-cookbook/book
